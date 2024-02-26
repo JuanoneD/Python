@@ -1,4 +1,4 @@
-import random
+""" import random
 def criarlista(inferior,superior,tamanho):
     lista = []
     for i in range(tamanho):
@@ -28,4 +28,21 @@ lista = ordenarlista(lista,tamanho)
 print("lista organizada",lista)
 
 
+ """
+""" arq = open("02/saida/arq.txt","r")
+word = input("Escreva a palavra ")
+div = arq.read()
+div = div.strip()
+div= div.split(" ")
+flag = 0
+for i in range(len(div)):
+    if div[i] == word:
+        flag = flag + 1
+print("esse palavra aparece:",flag)        
+arq.close() """
 
+def escrevernota():
+    arq = open("02/saida/notas.txt")
+    nota=input("escreva o nome e notas do 1,2,3 trimestre separado por vigula")
+    
+    
