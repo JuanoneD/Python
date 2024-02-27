@@ -1,0 +1,1 @@
+If you’ve been coding in Python for a hot minute or just started dipping your toes into the vast ocean of its functionality, you’ve likely come across a situation where you needed your strings as clean and neat as a new pin. Enter the strip() function, Python’s built-in whitespace bouncer that ensures your strings only keep what truly matters.

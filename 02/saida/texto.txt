@@ -1,0 +1,1 @@
+Em determinadas situações, pode ser necessário remover todos os elementos iguais de uma lista em Python. Felizmente, existem maneiras eficientes de realizar essa tarefa utilizando recursos da linguagem.
